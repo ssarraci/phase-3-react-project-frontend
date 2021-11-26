@@ -1,5 +1,5 @@
 import React from "react";
-function Room() {
+function Game() {
    return (
       <div>
          <h1>Game Card</h1>
@@ -7,4 +7,4 @@ function Room() {
    )
 }
 
-export default Room
+export default Game
